@@ -1,0 +1,38 @@
+2023-09-03 22:39:59,886.user_math_matt_riley.INFO ==================================================
+2023-09-03 22:39:59,887.user_math_matt_riley.INFO Today is 2023-09-03 at 10:39 PM
+2023-09-03 22:39:59,919.user_math_matt_riley.INFO Running on: nt Windows 10
+2023-09-03 22:39:59,920.user_math_matt_riley.INFO Python version:  3.11.5
+2023-09-03 22:39:59,920.user_math_matt_riley.INFO Python path: C:\Program Files\Python311
+2023-09-03 22:39:59,920.user_math_matt_riley.INFO Working dir: C:\Users\MR011023\Documents\datafun-02-functions
+2023-09-03 22:39:59,921.user_math_matt_riley.INFO ==================================================
+2023-09-03 22:39:59,921.user_math_matt_riley.INFO Explore some functions in the math module
+2023-09-03 22:39:59,921.user_math_matt_riley.INFO math.comb(5,1) = 5
+2023-09-03 22:39:59,922.user_math_matt_riley.INFO math.perm(5,1) = 5
+2023-09-03 22:39:59,922.user_math_matt_riley.INFO CALLING get_area_of_monitor(9,12)
+2023-09-03 22:39:59,923.user_math_matt_riley.INFO The monitor area is 108 square inches.
+2023-09-03 22:39:59,923.user_math_matt_riley.INFO get_area_of_monitor(9,12) = 108
+2023-09-03 22:39:59,923.user_math_matt_riley.INFO CALLING get_area_of_monitor(13.2,23.5)
+2023-09-03 22:39:59,924.user_math_matt_riley.INFO The monitor area is 310.2 square inches.
+2023-09-03 22:39:59,924.user_math_matt_riley.INFO get_area_of_monitor(13.2,23.5) = 310.2
+2023-09-03 22:39:59,924.user_math_matt_riley.INFO CALLING get_monitor_size(9,12)
+2023-09-03 22:39:59,925.user_math_matt_riley.INFO The monitor size is 15.0 inches.
+2023-09-03 22:39:59,925.user_math_matt_riley.INFO get_monitor_size(9,12) = 15.0
+2023-09-03 22:39:59,925.user_math_matt_riley.INFO CALLING get_monitor_size(13.2,23.5)
+2023-09-03 22:39:59,925.user_math_matt_riley.INFO The monitor size is 26.953478439711635 inches.
+2023-09-03 22:39:59,926.user_math_matt_riley.INFO get_monitor_size(13.2,23.5) = 26.953478439711635
+2023-09-03 22:39:59,926.user_math_matt_riley.INFO CALLING get_viewing_distance_range(15)
+2023-09-03 22:39:59,926.user_math_matt_riley.INFO The minumum viewing distance is 1.5 feet.
+2023-09-03 22:39:59,926.user_math_matt_riley.INFO The maximum viewing distance is 3.125 feet.
+2023-09-03 22:39:59,927.user_math_matt_riley.INFO get_viewing_dinstance_range(15) = (1.5, 3.125)
+2023-09-03 22:39:59,927.user_math_matt_riley.INFO CALLING get_viewing_distance_range(27)
+2023-09-03 22:39:59,927.user_math_matt_riley.INFO The minumum viewing distance is 2.6999999999999997 feet.
+2023-09-03 22:39:59,927.user_math_matt_riley.INFO The maximum viewing distance is 5.625 feet.
+2023-09-03 22:39:59,928.user_math_matt_riley.INFO get_viewing_dinstance_range(27) = (2.6999999999999997, 5.625)
+2023-09-03 22:39:59,928.user_math_matt_riley.INFO CALLING get_size_from_viewing_distance(3)
+2023-09-03 22:39:59,928.user_math_matt_riley.INFO The minumum display size 14.4 inches.
+2023-09-03 22:39:59,928.user_math_matt_riley.INFO The maximum display size 30.0 inches.
+2023-09-03 22:39:59,928.user_math_matt_riley.INFO get_size_from_viewing_distance(3) = (14.4, 30.0)
+2023-09-03 22:39:59,929.user_math_matt_riley.INFO CALLING get_size_from_viewing_distance(10)
+2023-09-03 22:39:59,929.user_math_matt_riley.INFO The minumum display size 48.0 inches.
+2023-09-03 22:39:59,929.user_math_matt_riley.INFO The maximum display size 100.0 inches.
+2023-09-03 22:39:59,929.user_math_matt_riley.INFO get_size_from_viewing_distance(10) = (48.0, 100.0)

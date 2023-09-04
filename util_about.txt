@@ -1,0 +1,27 @@
+
+======================================================================
+======================================================================
+ Welcome to the NW Python Debugging Information Utility!
+ Date and Time: 2023-08-28 at 05:21 PM
+ Operating System: nt Windows 10
+ System Architecture: 64bit
+ Number of CPUs: 12
+ Machine Type: AMD64
+ Python Version: 3.11.5
+ Python Build Date and Compiler: tags/v3.11.5:cce6ba9 with Aug 24 2023 14:38:34
+ Python Implementation: CPython
+ Active pip environment:   None
+ Active conda environment: None
+ Path to Interpreter:         C:\Program Files\Python311\python.exe
+ Path to virtual environment: C:\Program Files\Python311
+ Current Working Directory:   C:\Users\MR011023\Documents\datafun-02-functions
+ Path to source directory:    C:\Users\MR011023\Documents\datafun-02-functions
+ Path to script file:         C:\Users\MR011023\Documents\datafun-02-functions\util_about.py
+ User's Home Directory:       C:\Users\MR011023
+ Terminal Environment:        VS Code
+ Terminal Type:               cmd.exe
+ Preferred command:           python
+ Is python available in PATH:   True
+ Is git available in PATH:      True 
+======================================================================
+======================================================================
